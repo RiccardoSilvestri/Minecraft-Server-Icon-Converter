@@ -5,4 +5,4 @@ a simple application that converts an image to png, converts it to 64x64 pixels 
 
 requirements = pyhton 3 + pip install pillow.
 
-![alt text]([http://url/to/img.png](https://github.com/RiccardoSilvestri/Minecraft-Server-Icon-Converter/blob/main/icon.png?raw=true)https://github.com/RiccardoSilvestri/Minecraft-Server-Icon-Converter/blob/main/icon.png?raw=true)
+![alt text]([http://url/to/img.png](https://raw.githubusercontent.com/RiccardoSilvestri/Minecraft-Server-Icon-Converter/main/icon.png)https://raw.githubusercontent.com/RiccardoSilvestri/Minecraft-Server-Icon-Converter/main/icon.png)
